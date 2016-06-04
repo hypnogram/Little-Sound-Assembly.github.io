@@ -1,10 +1,10 @@
 # Site settings
 title: Little Sound Assembly III
-email: your-email@domain.com
+email: hypnogrammusic@gmail.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "August 26-27 Evansville, Indiana"
-meta_author: LastName FirstName
+meta_author: Bradshaw Anthony
 
 # Google webmaster tools
 google_verify:
@@ -41,13 +41,13 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/littlesoundassembly/
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+# - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
