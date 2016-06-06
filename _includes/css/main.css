@@ -188,6 +188,10 @@ section.success {
     color:#fff;
 }
 
+.success h3 {
+    color:#a7c9d3;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
